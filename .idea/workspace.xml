@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="012beeb8-5f39-4fc9-820f-576199c8d039" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test/gilded_rose.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/gilded_rose.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2G7ob7iuttPkYhLQmdYkwQCUEsk" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.13.1",
+    "javascript.nodejs.core.library.typings.version": "16.11.65",
+    "nodejs.jest.jest_package": "/Users/sebastiengatineau/Adeo/coding-dojo/Gilded-Rose-mutation-testing-dojo/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/Users/sebastiengatineau/Library/Application Support/JetBrains/Toolbox/apps/IDEA-U/ch-0/222.4345.14/IntelliJ IDEA.app/Contents/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RunManager" selected="Jest.Gilded Rose.'Backstage passes to a TAFKAL80ETC concert', quality increases by 3 when there are 5 days or less">
+    <configuration name="Gilded Rose.The Quality of an item is never more than 50" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/gilded_rose.test.js" />
+      <test-names>
+        <test-name value="Gilded Rose" />
+        <test-name value="The Quality of an item is never more than 50" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.'Aged Brie' actually increases in Quality the older it gets" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/gilded_rose.test.js" />
+      <test-names>
+        <test-name value="Gilded Rose" />
+        <test-name value="'Aged Brie' actually increases in Quality the older it gets" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.'Backstage passes to a TAFKAL80ETC concert', quality drops to 0 after the concert" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/gilded_rose.test.js" />
+      <test-names>
+        <test-name value="Gilded Rose" />
+        <test-name value="'Backstage passes to a TAFKAL80ETC concert', quality drops to 0 after the concert" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.'Backstage passes to a TAFKAL80ETC concert', quality increases by 3 when there are 5 days or less" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/gilded_rose.test.js" />
+      <test-names>
+        <test-name value="Gilded Rose" />
+        <test-name value="'Backstage passes to a TAFKAL80ETC concert', quality increases by 3 when there are 5 days or less" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Gilded Rose.'Sulfuras', being a legendary item, never has to be sold or decreases in Quality" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/gilded_rose.test.js" />
+      <test-names>
+        <test-name value="Gilded Rose" />
+        <test-name value="'Sulfuras', being a legendary item, never has to be sold or decreases in Quality" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Gilded Rose.'Backstage passes to a TAFKAL80ETC concert', quality increases by 3 when there are 5 days or less" />
+        <item itemvalue="Jest.Gilded Rose.'Backstage passes to a TAFKAL80ETC concert', quality drops to 0 after the concert" />
+        <item itemvalue="Jest.Gilded Rose.'Sulfuras', being a legendary item, never has to be sold or decreases in Quality" />
+        <item itemvalue="Jest.Gilded Rose.The Quality of an item is never more than 50" />
+        <item itemvalue="Jest.Gilded Rose.'Aged Brie' actually increases in Quality the older it gets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="012beeb8-5f39-4fc9-820f-576199c8d039" name="Changes" comment="" />
+      <created>1665749051512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665749051512</updated>
+      <workItem from="1665749052730" duration="2961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
