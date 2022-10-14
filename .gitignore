@@ -1,7 +1,4 @@
-bin
-obj
-*.sln.DotSettings.user
-.vs
-vendor
-.idea
-*.iml
+/node_modules/
+
+# stryker temp files
+.stryker-tmp
